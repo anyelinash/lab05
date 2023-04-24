@@ -1,0 +1,49 @@
+*{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 44px;
+    color: #59626D;
+}
+.formulario{
+    margin: 20px;
+    text-align: center;
+}
+#sub{
+    font-size: 24px;
+}
+#hijos{
+    width: 10%;
+    height: 25px;
+    margin: 0 auto;
+    border: auto;
+    border-radius: 10px;
+}
+
+#impor{
+    width: 10%;
+    height: 25px;
+    margin: 0 auto;
+    border: auto;
+    border-radius: 10px;
+}
+#calcular{
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 12%;
+    color: white;
+    background-color: #46535E;
+    
+}
+
+#cancelar{
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 12%;
+    color: white;
+    background-color: #46535E;
+}

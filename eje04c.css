@@ -1,0 +1,51 @@
+*{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 44px;
+    color: #423736;
+}
+.formulario{
+    margin: 20px;
+    text-align: center;
+}
+#sub{
+    font-size: 20px;
+}
+#precio{
+    width: 10%;
+    height: 25px;
+    margin: 0 auto;
+    border: auto;
+    border-radius: 10px;
+}
+
+#cantidad{
+    width: 10%;
+    height: 25px;
+    margin: 0 auto;
+    border: auto;
+    border-radius: 10px;
+}
+
+#calcular{
+    border: 0;
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 12%;
+    color:#423736;
+    background-color: #D6C1B9;
+}
+
+#cancelar{
+    border: 0;
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 12%;
+    color: #423736;
+    background-color: #D6C1B9;
+}
